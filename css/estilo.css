@@ -181,3 +181,8 @@ nav{
     margin-left: 30px;
 
 }
+
+#famososCanto{
+    border: solid 3px rgb(250, 244, 244);
+    height: 400px;
+}
