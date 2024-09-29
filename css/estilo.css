@@ -1,0 +1,12 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    margin: 0px;
+    display: flex;
+    border: solid 1px gray;
+    width: 99%;
+    height: 50px;
+}
